@@ -2,8 +2,9 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 10px;
     padding: 10px;
-    background-color:rgb(211, 211, 179);
+    background-color:#b7f8f2;
     color: #0b0b0b;
+    text-align: center;
 }
 
 footer {
